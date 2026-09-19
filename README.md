@@ -20,8 +20,13 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/tejeswari30/leetcode/tree/master/0739-daily-temperatures) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejeswari30/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/tejeswari30/leetcode/tree/master/0739-daily-temperatures) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejeswari30/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
