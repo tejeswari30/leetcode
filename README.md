@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/tejeswari30/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/tejeswari30/leetcode/tree/master/0641-design-circular-deque) |
 | [0739-daily-temperatures](https://github.com/tejeswari30/leetcode/tree/master/0739-daily-temperatures) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejeswari30/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2073-time-needed-to-buy-tickets](https://github.com/tejeswari30/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -42,15 +43,18 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/tejeswari30/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/tejeswari30/leetcode/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/tejeswari30/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/tejeswari30/leetcode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/tejeswari30/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/tejeswari30/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/tejeswari30/leetcode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/tejeswari30/leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/tejeswari30/leetcode/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/tejeswari30/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
