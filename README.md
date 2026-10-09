@@ -29,6 +29,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejeswari30/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2073-time-needed-to-buy-tickets](https://github.com/tejeswari30/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tejeswari30/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tejeswari30/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejeswari30/leetcode/tree/master/0036-valid-sudoku) |
 | [0454-4sum-ii](https://github.com/tejeswari30/leetcode/tree/master/0454-4sum-ii) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tejeswari30/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,4 +115,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejeswari30/leetcode/tree/master/0036-valid-sudoku) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tejeswari30/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
