@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tejeswari30/leetcode/tree/master/0036-valid-sudoku) |
 | [0239-sliding-window-maximum](https://github.com/tejeswari30/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0454-4sum-ii](https://github.com/tejeswari30/leetcode/tree/master/0454-4sum-ii) |
 | [0622-design-circular-queue](https://github.com/tejeswari30/leetcode/tree/master/0622-design-circular-queue) |
@@ -97,6 +98,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tejeswari30/leetcode/tree/master/0036-valid-sudoku) |
 | [0454-4sum-ii](https://github.com/tejeswari30/leetcode/tree/master/0454-4sum-ii) |
 ## Two Pointers
 |  |
@@ -107,4 +109,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tejeswari30/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/tejeswari30/leetcode/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/tejeswari30/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
