@@ -30,6 +30,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/tejeswari30/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tejeswari30/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tejeswari30/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tejeswari30/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -116,4 +117,8 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejeswari30/leetcode/tree/master/0036-valid-sudoku) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tejeswari30/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tejeswari30/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
