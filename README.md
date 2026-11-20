@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejeswari30/leetcode/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/tejeswari30/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/tejeswari30/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0454-4sum-ii](https://github.com/tejeswari30/leetcode/tree/master/0454-4sum-ii) |
 | [0622-design-circular-queue](https://github.com/tejeswari30/leetcode/tree/master/0622-design-circular-queue) |
@@ -43,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/tejeswari30/leetcode/tree/master/0217-contains-duplicate) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tejeswari30/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejeswari30/leetcode/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/tejeswari30/leetcode/tree/master/0217-contains-duplicate) |
 | [0454-4sum-ii](https://github.com/tejeswari30/leetcode/tree/master/0454-4sum-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tejeswari30/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Two Pointers
