@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/tejeswari30/leetcode/tree/master/0020-valid-parentheses) |
 | [0649-dota2-senate](https://github.com/tejeswari30/leetcode/tree/master/0649-dota2-senate) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejeswari30/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/tejeswari30/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Stack
 |  |
 | ------- |
