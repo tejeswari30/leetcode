@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejeswari30/leetcode/tree/master/0020-valid-parentheses) |
+| [0290-word-pattern](https://github.com/tejeswari30/leetcode/tree/master/0290-word-pattern) |
 | [0649-dota2-senate](https://github.com/tejeswari30/leetcode/tree/master/0649-dota2-senate) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tejeswari30/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/tejeswari30/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejeswari30/leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/tejeswari30/leetcode/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/tejeswari30/leetcode/tree/master/0290-word-pattern) |
 | [0454-4sum-ii](https://github.com/tejeswari30/leetcode/tree/master/0454-4sum-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tejeswari30/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Two Pointers
