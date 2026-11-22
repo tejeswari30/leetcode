@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejeswari30/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/tejeswari30/leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/tejeswari30/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/tejeswari30/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -112,6 +113,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejeswari30/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/tejeswari30/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
